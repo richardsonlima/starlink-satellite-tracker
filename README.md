@@ -24,7 +24,7 @@ An interactive Streamlit application to monitor and visualize the real-time posi
 2. **Installation**:
 
    ```bash
-   git clone https://github.com/yourusername/starlink-satellite-tracker.git
+   git clone https://github.com/richardsonlima/starlink-satellite-tracker.git
    cd starlink-satellite-tracker
    pip install -r requirements.txt
    ```
